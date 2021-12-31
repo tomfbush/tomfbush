@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about various subjects within the vast world of data science
+- 🔭 I’m currently working on using NLP/ML to help with editorial analysis/editorial analytics
+
 <!--
 **tomfbush/tomfbush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
